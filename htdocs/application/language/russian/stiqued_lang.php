@@ -73,6 +73,6 @@ $lang['table_lang'] = 'Язык';
 $lang['table_hits'] = 'Просмотров';
 $lang['table_time'] = 'Дата создания';
 $lang['powered_by'] = 'При помощи';
-$lang['powered_by_mas'] = '@';
+$lang['powered_by_mas'] = '©';
 $lang['menu_admin'] = 'Админ';
 $lang['paste_expire'] = 'Эта заметка будет удалена через';

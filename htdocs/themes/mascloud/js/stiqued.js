@@ -124,7 +124,7 @@ ST.highlight_lines = function () {
 }
 
 ST.crypto = function () {
-    $('button[name=submit]').after('&nbsp;&nbsp;<button type="submit" id="create_encrypted" class="btn-large btn-success"> <i class="icon-lock icon-white"></i> Create encrypted</button>');
+   // $('button[name=submit]').after('&nbsp;&nbsp;<button type="submit" id="create_encrypted" class="btn-large btn-success"> <i class="icon-lock icon-white"></i> Create encrypted</button>');
     $('#create_encrypted').on('click', function () {
         var $code = $('#code');
 

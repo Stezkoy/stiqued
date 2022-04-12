@@ -1,3 +1,3 @@
 <footer class="footer">
-	<?php echo lang('powered_by'); ?> <a href="https://mascloud.ru/">MasCloud</a>
+	<?php echo lang('powered_by_mas'); ?> <a href="https://mascloud.ru/">2022 MasCloud</a>
 </footer>

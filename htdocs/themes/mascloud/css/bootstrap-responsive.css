@@ -375,7 +375,7 @@
   input.span12,
   textarea.span12,
   .uneditable-input.span12 {
-    width: 714px;
+    width: 675px;
   }
   input.span11,
   textarea.span11,
@@ -611,7 +611,7 @@
   input.span12,
   textarea.span12,
   .uneditable-input.span12 {
-    width: 1160px;
+    width: 1120px;
   }
   input.span11,
   textarea.span11,
@@ -730,7 +730,7 @@
   .nav-collapse .dropdown-menu a {
     padding: 6px 15px;
     font-weight: bold;
-    color: #999999;
+    color: #111111;
     -webkit-border-radius: 3px;
        -moz-border-radius: 3px;
             border-radius: 3px;
@@ -747,7 +747,7 @@
   }
   .nav-collapse .nav > li > a:hover,
   .nav-collapse .dropdown-menu a:hover {
-    background-color: #222222;
+    background-color: #b47751;
   }
   .nav-collapse.in .btn-group {
     padding: 0;
